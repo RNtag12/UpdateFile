@@ -18,7 +18,7 @@ to this content. An algorithm is developed to automate the updating of the "allo
 
 <h2>IDE </h2>
 
-- <b>Jupiter notebook </b> 
+<b>Jupiter notebook </b> 
 
 <h2>Program steps:</h2>
 
