@@ -11,9 +11,9 @@ to this content. An algorithm is developed to automate the updating of the "allo
 - <b>Open the file that contains the allow_list</b> 
 - <b>Read the file contents</b>
 - <b>Convert the String into a list</b> 
-- <b>Iterate through the remove list</b>
+- <b>Iterate through the allow list</b>
 - <b>Remove IP addresses that are on the remove list</b>
-- <b>Update teh file with the revised list of IP addresses</b> 
+- <b>Update the file with the revised list of IP addresses</b> 
 
 
 <h2>IDE </h2>
