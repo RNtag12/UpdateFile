@@ -51,8 +51,3 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
